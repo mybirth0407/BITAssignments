@@ -1,4 +1,4 @@
-package Practice2;
+package Practice2.prob1;
 
 public class ArrayParameter {
     public static void main(String args[]) {

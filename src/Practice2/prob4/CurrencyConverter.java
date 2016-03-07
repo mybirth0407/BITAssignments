@@ -1,4 +1,4 @@
-package Practice2;
+package Practice2.prob4;
 
 public class CurrencyConverter {
     private static double rate;

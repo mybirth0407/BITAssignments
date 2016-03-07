@@ -1,4 +1,4 @@
-package Practice2;
+package Practice2.prob5;
 
 import java.util.Scanner;
 
@@ -6,6 +6,8 @@ import java.util.Scanner;
     public static void main(String args[]) {
         Scanner sc = new Scanner(System.in);
         System.out.print("두 정수와 연산자 입력: ");
+        /* 입력 예시 2 3 +
+         * 결과 5 */
 
         int x = sc.nextInt();
         int y = sc.nextInt();

@@ -1,6 +1,6 @@
 package Practice1;
 
-public class ThreeSixNine {
+public class Game369 {
     public static void main(String args[]) {
         for (int i = 1; i < 100; i++) {
             int temp = i;
@@ -11,7 +11,6 @@ public class ThreeSixNine {
                 (temp / 10) == 9) {
                 clap++;
             }
-
             temp %= 10;
 
             if (temp == 3 ||
