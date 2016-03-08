@@ -12,4 +12,12 @@ public abstract class Bird {
         this.name = name;
     }
 
+    public void setLegs(int legs) {
+        this.legs = legs;
+    }
+
+    public void setLength(int length) {
+        this.length = length;
+    }
+
 }
