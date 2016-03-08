@@ -14,22 +14,22 @@ import java.util.Scanner;
         String operand = sc.next();
 
         if (operand.equals("+")) {
-            Add a = new Add();
+            Arith a = new Add();
             a.setValue(x, y);
             System.out.println(a.calculate());
         }
         else if (operand.equals("-")) {
-            Sub s = new Sub();
+            Arith s = new Sub();
             s.setValue(x, y);
             System.out.println(s.calculate());
         }
         else if (operand.equals("/")) {
-            Div d = new Div();
+            Arith d = new Div();
             d.setValue(x, y);
             System.out.println(d.calculate());
         }
         else if (operand.equals("*")) {
-            Mul m = new Mul();
+            Arith m = new Mul();
             m.setValue(x, y);
             System.out.println(m.calculate());
         }

@@ -1,4 +1,4 @@
-package Practice3;
+package Practice3.prob3;
 
 public class Prob3 {
     public static void main(String args[]) {
