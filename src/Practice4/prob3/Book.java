@@ -14,8 +14,10 @@ public class Book {
     }
 
     public void rent() {
-        stateCode = 0;
-        System.out.println(title + "이(가) 대여 됨");
+        if (stateCode == 1) {
+            stateCode = 0;
+            System.out.println(title + "이(가) 대여 됨");
+        }
     }
 
     public void print() {

@@ -18,8 +18,6 @@ public class ShapeTest {
                 System.out.println("perimeter: " + s[i].getPerimeter());
                 temp = null;
             }
-
         }
-
     }
 }
