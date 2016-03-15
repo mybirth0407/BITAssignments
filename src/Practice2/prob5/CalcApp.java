@@ -4,7 +4,7 @@ import java.util.Scanner;
 
  public class CalcApp {
     public static void main(String args[]) {
-        /* 입력 예시 2 3 +
+        /* 입력 예시 2 + 5
          * 결과 5 */
 
         while (true) {
