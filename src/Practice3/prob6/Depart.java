@@ -1,4 +1,4 @@
-package Practice3.prob6;
+package practice3.prob6;
 
 public class Depart extends Employee {
     private String department;

@@ -1,4 +1,4 @@
-package Practice2.prob5;
+package practice2.prob5;
 
 public class Add extends Arith{
     double calculate() {

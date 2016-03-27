@@ -1,4 +1,4 @@
-package Exam1.prob6;
+package exam1.prob6;
 
 public class Rectangle extends Shape implements Resizable {
     private double width;

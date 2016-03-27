@@ -1,4 +1,4 @@
-package Practice4.prob5;
+package practice4.prob5;
 
 public class RectTriangle extends Shape {
     private double width;

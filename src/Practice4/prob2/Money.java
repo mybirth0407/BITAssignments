@@ -1,4 +1,4 @@
-package Practice4.prob2;
+package practice4.prob2;
 
 public class Money {
     private int amount;

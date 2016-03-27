@@ -1,4 +1,4 @@
-package Exam1.prob7;
+package exam1.prob7;
 
 public class Sort {
     public static void main(String[] arg) {
@@ -20,7 +20,7 @@ public class Sort {
             return;
         }
         
-        System.out.println("\nAfter Sort.");
+        System.out.println("\nAfter sort.");
         
         for (int i = 0; i < count; i++) {
             System.out.print(array[i] + " ");

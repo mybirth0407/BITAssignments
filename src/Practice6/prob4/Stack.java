@@ -1,4 +1,4 @@
-package Practice6.prob4;
+package practice6.prob4;
 
 public interface Stack {
     public void push(String str) throws RuntimeException;

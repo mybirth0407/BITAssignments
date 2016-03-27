@@ -1,4 +1,4 @@
-package Exam1.prob5;
+package exam1.prob5;
 
 public class MainApp {
     public static void main(String args[]) {

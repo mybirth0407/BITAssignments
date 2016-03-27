@@ -1,4 +1,4 @@
-package Exam1.prob4;
+package exam1.prob4;
 
 public class Duck implements Soundable {
     Duck() {

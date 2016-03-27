@@ -1,4 +1,4 @@
-package Practice5.prob2;
+package practice5.prob2;
 
 public class StringUtil {
     public static void main(String args[]) {

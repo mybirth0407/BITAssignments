@@ -1,4 +1,4 @@
-package Exam1.prob5;
+package exam1.prob5;
 
 public interface Stack {
     public void push(String str);

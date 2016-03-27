@@ -1,4 +1,4 @@
-package Practice6.prob3;
+package practice6.prob3;
 
 public class FindAndReplaceExample {
 

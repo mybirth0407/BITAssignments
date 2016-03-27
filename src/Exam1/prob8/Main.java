@@ -1,4 +1,4 @@
-package Exam1.prob8;
+package exam1.prob8;
 
 import java.io.BufferedReader;
 import java.io.IOException;

@@ -1,4 +1,4 @@
-package Exam1.prob5;
+package exam1.prob5;
 
 public class MyStack implements Stack {
     private int top = -1;

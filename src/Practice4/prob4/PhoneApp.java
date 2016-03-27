@@ -1,4 +1,4 @@
-package Practice4.prob4;
+package practice4.prob4;
 
 public class PhoneApp {
     public static void main(String args[]) {

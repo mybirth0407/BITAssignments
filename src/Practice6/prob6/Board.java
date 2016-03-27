@@ -1,4 +1,4 @@
-package Practice6.prob6;
+package practice6.prob6;
 
 public class Board {
     private String title;

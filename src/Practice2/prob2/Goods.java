@@ -1,4 +1,4 @@
-package Practice2.prob2;
+package practice2.prob2;
 
 public class Goods {
     public String name ;

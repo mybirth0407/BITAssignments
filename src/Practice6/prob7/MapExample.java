@@ -1,4 +1,4 @@
-package Practice6.prob7;
+package practice6.prob7;
 
 import java.util.HashMap;
 import java.util.Map;

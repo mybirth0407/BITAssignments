@@ -1,4 +1,4 @@
-package Practice6.prob4;
+package practice6.prob4;
 
 public class MyStack implements Stack {
     private int top = -1;

@@ -1,4 +1,4 @@
-package Exam1.prob3;
+package exam1.prob3;
 
 public class MoneyTest {
 

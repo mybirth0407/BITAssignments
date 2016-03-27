@@ -1,4 +1,4 @@
-package Practice6.prob2;
+package practice6.prob2;
 
 public class MemberTest {
 

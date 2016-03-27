@@ -1,4 +1,4 @@
-package Exam1.prob1;
+package exam1.prob1;
 
 public class Game369 {
     public static void main(String args[]) {

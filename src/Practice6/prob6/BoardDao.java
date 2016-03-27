@@ -1,4 +1,4 @@
-package Practice6.prob6;
+package practice6.prob6;
 
 import java.util.LinkedList;
 import java.util.List;

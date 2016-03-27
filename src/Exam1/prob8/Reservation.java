@@ -1,4 +1,4 @@
-package Exam1.prob8;
+package exam1.prob8;
 
 public class Reservation {
     private int id;

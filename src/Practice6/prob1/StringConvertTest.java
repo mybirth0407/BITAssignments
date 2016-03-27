@@ -1,4 +1,4 @@
-package Practice6.prob1;
+package practice6.prob1;
 
 public class StringConvertTest {
 

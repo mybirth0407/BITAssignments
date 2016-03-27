@@ -1,4 +1,4 @@
-package Practice5.prob5;
+package practice5.prob5;
 
 public class Unit {
     // 현재 위치

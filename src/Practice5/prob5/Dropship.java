@@ -1,4 +1,4 @@
-package Practice5.prob5;
+package practice5.prob5;
 
 public class Dropship extends Unit {
     void load() {

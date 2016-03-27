@@ -1,4 +1,4 @@
-package Exam1.prob2;
+package exam1.prob2;
 
 public class Mul extends Arith {
     @Override

@@ -1,4 +1,4 @@
-package Practice3.prob1;
+package practice3.prob1;
 
 public class MainApp {
     public static void main(String args[]) {

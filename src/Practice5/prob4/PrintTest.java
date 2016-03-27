@@ -1,4 +1,4 @@
-package Practice5.prob4;
+package practice5.prob4;
 
 public class PrintTest {
 

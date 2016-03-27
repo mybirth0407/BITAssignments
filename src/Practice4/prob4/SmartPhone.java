@@ -1,4 +1,4 @@
-package Practice4.prob4;
+package practice4.prob4;
 
 public class SmartPhone extends MusicPhone {
     public void execute(String function) {

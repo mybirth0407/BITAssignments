@@ -1,4 +1,4 @@
-package Practice3.prob7;
+package practice3.prob7;
 
 public class Sparrow extends Bird {
     void fly() {

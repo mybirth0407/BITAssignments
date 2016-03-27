@@ -1,4 +1,4 @@
-package Practice5.prob3;
+package practice5.prob3;
 
 public class Cat implements Soundable {
     Cat() {
