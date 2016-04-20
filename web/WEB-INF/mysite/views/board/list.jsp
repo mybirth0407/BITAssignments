@@ -86,7 +86,8 @@
           <c:if test="${pageMap.right == 1}">
             <c:set var="lastPage" value="${pageMap.lastPage + 1}"/>
             <li>
-              <a href="board?page=${lastPage}&keyword=${
+              <a href="board?page=${
+              lastPage}&keyword=${
               param.keyword}">▶
               </a>
             </li>

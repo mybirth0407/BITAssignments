@@ -15,7 +15,7 @@ public class GuestBookActionFactory extends ActionFactory {
             action = new GuestBookDeleteAction();
         }
         else {
-            action = new GuestListAction();
+            action = new GuestBookListAction();
         }
         return action;
     }

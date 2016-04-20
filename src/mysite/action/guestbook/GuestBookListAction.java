@@ -12,7 +12,7 @@ import javax.servlet.http.HttpServletResponse;
 import java.io.IOException;
 import java.util.List;
 
-public class GuestListAction implements Action {
+public class GuestBookListAction implements Action {
     @Override
     public void execute(HttpServletRequest req, HttpServletResponse res)
         throws ServletException, IOException {
