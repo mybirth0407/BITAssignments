@@ -1,2 +1,2 @@
-# BITPractice
-BITPractice by BITComputer, 3.2 ~ 5.31
+# BITAssignments
+BIT Assignments by BITComputer, 3.2 ~ 5.31
