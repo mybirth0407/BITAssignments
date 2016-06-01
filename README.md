@@ -1,2 +1,2 @@
 # BITAssignments
-BIT Assignments by BITComputer, 3.2 ~ 5.31
+BIT Assignments in BITComputer during EstSoft futures, 3.2 ~ 5.31
